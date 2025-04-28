@@ -1,6 +1,11 @@
-ecommerce-template-vanilla
-A lightweight and modern eCommerce template built using HTML, CSS (with Flexbox), and Vanilla JavaScript.
-This project provides a clean and responsive storefront along with an elegant Admin Panel to manage the store easily.
+<p align="center">
+  <img src="your-gif-link.gif" alt="ecommerce-template-vanilla Preview" width="800"/>
+</p>
+
+# ecommerce-template-vanilla
+
+A lightweight, responsive, and modern eCommerce template crafted with HTML, CSS (Flexbox), and Vanilla JavaScript.  
+It features a clean storefront and an elegant Admin Panel, perfect for stylish online shops.
 
 🛍️ Project Structure
 home/
