@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Ecommerce+Template+Preview" alt="ecommerce-template-vanilla" width="800"/>
-</p>
-
 
 # ecommerce-template-vanilla
 
