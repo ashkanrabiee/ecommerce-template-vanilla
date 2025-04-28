@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="your-gif-link.gif" alt="ecommerce-template-vanilla Preview" width="800"/>
+  <img src="https://via.placeholder.com/800x400.png?text=Ecommerce+Template+Preview" alt="ecommerce-template-vanilla" width="800"/>
 </p>
+
 
 # ecommerce-template-vanilla
 
